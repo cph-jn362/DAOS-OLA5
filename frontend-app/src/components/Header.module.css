@@ -1,0 +1,50 @@
+.header{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    padding: 1em 2em;
+    box-shadow: 0px 2px 6px rgb(218, 218, 218);
+}
+
+.header > h1{
+    font-family: Oswald;
+    color: rgb(191, 30, 46);
+    margin-right: auto;
+}
+
+
+.header > a{
+    list-style: none;
+    margin-left: 2em;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.linkColor{
+    color: rgb(53, 58, 93);
+}
+
+
+.opret{
+    background-color: rgb(53, 58, 93);
+    padding: 1em 2em;
+    border-radius: 10px;
+    box-shadow: 0px 2px 6px rgb(218, 218, 218);
+    color: rgb(246, 246, 246);
+}
+
+.opret:hover{
+    background-color: rgb(75, 81, 131);
+}
+
+.login{
+    border: 1px solid rgb(204, 204, 204);
+    padding: 1em 2em;
+    border-radius: 10px;
+    box-shadow: 0px 2px 6px rgb(218, 218, 218);
+    color: rgb(53, 58, 93);
+}
+
+.login:hover{
+    background-color: rgb(247, 247, 247);
+}

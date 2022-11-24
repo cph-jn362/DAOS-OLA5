@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Oswald:wght@300;400;600&display=swap');
+
+body{
+    margin: 0;
+    font-family: Montserrat, arial;
+    color: rgb(53, 58, 93);
+}
